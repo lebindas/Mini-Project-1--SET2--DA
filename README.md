@@ -1,7 +1,7 @@
 # Mini-Project-1--SET2--DA
-*DATA VISUALIZATION USING POWER BI
+* DATA VISUALIZATION USING POWER BI
 
-                                             ## Spotify User Churn and Listening Analytics Dashboard
+                                             ##Spotify User Churn and Listening Analytics Dashboard
                                                          
 ## Project Overview
 
